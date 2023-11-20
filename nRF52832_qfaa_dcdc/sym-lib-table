@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "nRF52832_qfaa_dcdc-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/nRF52832_qfaa_dcdc-eagle-import.kicad_sym")(options "")(descr ""))
+)
