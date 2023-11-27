@@ -1,16 +1,15 @@
 #
 # Collaborateur
 
-Ce travail a été réalisé avec l'aide de Valentin Boutouria, car Valentin ne pouvait pas faire fonctionner le logiciel (malgré la bonne volonté des Professeurs).
+Ce travail a été réalisé avec l'aide de Valentin Boutouria, car Valentin ne pouvait pas faire fonctionner le logiciel (malgré la bonne volonté des professeurs).
 
 # Design
-TP de design sur la partie electronique du KeyFinder
-
+TP de design sur la partie électronique du Key Finder
 
 
 # Objectif du projet
 
-Crée la carte du KeyFinder sur un logciel de Design Electronique Kicad.
+Crée la carte du KeyFinder sur un logiciel de design électronique Kicad.
 
 
 # Objectif atteint
